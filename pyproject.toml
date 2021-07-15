@@ -6,6 +6,8 @@ authors = ["Sergey <sergey4troinin@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+tensorflow = "^2.5.0"
+numpy = "1.19.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
